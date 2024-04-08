@@ -1,5 +1,3 @@
-ghp_EIJNpl0GuqQxj1cAPMJbI7Or318gXY2Obxsc
-
 # GHAzDO Vulnerabilities Added on Purpose
 
 # Build Status
