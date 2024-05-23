@@ -1,5 +1,7 @@
 # GHAzDO Vulnerabilities Added on Purpose
 
+PAT
+ghp_EIJNpl0GuqQxj1cAPMJbI7Or318gXY2Obxsc
 
 # Build Status
 [![Build Status](https://dev.azure.com/xpirit/eShopOnWeb/_apis/build/status%2FeShopOnWeb-Build?branchName=main)](https://dev.azure.com/xpirit/eShopOnWeb/_build/latest?definitionId=746&branchName=main)
