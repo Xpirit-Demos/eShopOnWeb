@@ -3,6 +3,8 @@
 I'm using this for testing...Azure OpenAI
 apikey = "e7fbeefbf9624916b650bf07b23e2794"
 
+Test only ghp_osJ2dCmZRRGB1ej3NgvJK4YgbRVsUP3R3hXi
+
 # Build Status
 [![Build Status](https://dev.azure.com/xpirit/eShopOnWeb/_apis/build/status%2FeShopOnWeb-Build?branchName=main)](https://dev.azure.com/xpirit/eShopOnWeb/_build/latest?definitionId=746&branchName=main)
 
