@@ -1,4 +1,4 @@
-# GHAzDO Vulnerabilities Added on Purpose
+# GHAzDO Vulnerabilities Added on Purpose - Randy was Here!
 
 I'm using this for testing...Azure OpenAI
 apikey = "e7fbeefbf9624916b650bf07b23e2794"
